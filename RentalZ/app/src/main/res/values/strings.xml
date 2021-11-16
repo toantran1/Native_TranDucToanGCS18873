@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RentalZ</string>
+    <string name="notification_welcome">Welcome to visit RentalZ!</string>
+    <string name="notification_create">Create property successfull!</string>
+    <string name="notification_01">Please enter property name*</string>
+    <string name="notification_02">Please enter property address*</string>
+    <string name="notification_03">Please enter property type*</string>
+    <string name="notification_04">Please enter property number of room*</string>
+    <string name="notification_05">Please enter property reporter*</string>
+    <string name="notification_06">Please enter property price*</string>
+    <string name="txt_register"><b>Register property</b></string>
+    <string name="txt_name_property"><b>Property name</b></string>
+    <string name="txt_address"><b>Address</b></string>
+    <string name="txt_type"><b>Type</b></string>
+    <string name="txt_price"><b>Price</b></string>
+    <string name="txt_numberOfRoom"><b>Number of rooms</b></string>
+    <string name="txt_reporter"><b>Reporter</b></string>
+    <string name="txt_furniture"><b>Furniture</b></string>
+    <string name="txt_note"><b>Note</b></string>
+    <string name="btn_create"><b>Create</b></string>
+
+
+</resources>
